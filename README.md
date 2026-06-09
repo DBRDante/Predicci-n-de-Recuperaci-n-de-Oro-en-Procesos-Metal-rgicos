@@ -1,3 +1,6 @@
+<img width="921" height="269" alt="image" src="https://github.com/user-attachments/assets/38e789a9-e7b1-43f6-89c5-bf452d374b52" />
+
+
 # Predicción de Recuperación de Oro en el Circuito Metalúrgico
 
 ## Problema
